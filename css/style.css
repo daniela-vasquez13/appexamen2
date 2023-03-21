@@ -1,0 +1,184 @@
+:root{
+	--f7-theme-color:#5079FE;
+	--f7-navbar-bg-color: #fff; /*navbar*/
+	--f7-navbar-link-color: #5079FE; /*navbar link*/
+	--f7-navbar-text-color:#7C899F;
+	--f7-bars-bg-color:#fff;/*toolbar*/
+	--f7-tabbar-link-inactive-color: #333; /*link toolbar*/
+	--f7-block-margin-vertical:20px;
+	--f7-card-footer-border-color:transparent; 
+}
+.img-fluid {
+	max-width: 100%;
+	display:block;
+}
+
+#banner h1{
+text-align: center;
+}
+
+
+#cardscursos .button{
+background-color: #000;
+color: #fff;
+border-radius: 30px 30px;
+margin: 10px 0px;
+text-align: center;
+}
+
+#banner h1{
+font-family: Manrope;
+font-size: 20px;
+}
+
+#cardscursos{
+background-color: #F5EBF6;
+padding-bottom: 30px;
+}
+
+#curso1{
+margin-bottom: 30px;
+}
+
+#curso1 h2{
+padding: 15px 0px;
+margin-left: 10px;
+font-family: Manrope;
+}
+
+#curso1 img{
+width: 200px;
+height: 160px;
+margin-left: 5px;
+}
+
+#curso1 .card-content{
+margin-left: 8px;
+}
+
+#curso2 img{
+width: 200px;
+height: 160px;
+margin-left: 5px;
+}
+
+#curso2 .card-content{
+margin-left: 8px;
+}
+
+#titulo2{
+padding: 10px 0px;
+margin-left: 10px;
+font-family: Manrope;
+}
+
+#curso3{
+margin-bottom: 30px;
+}
+
+#curso3 img{
+width: 200px;
+height: 160px;
+margin-left: 5px;
+}
+
+#curso3 .card-content{
+margin-left: 8px;
+}
+
+
+#curso4 img{
+width: 200px;
+height: 160px;
+margin-left: 5px;
+}
+
+#curso4 .card-content{
+margin-left: 8px;
+}
+
+#back {
+color: #000 !important;
+margin-left: 20px;
+}
+#blog{
+background-color: #F3DDE2;
+padding-bottom: 50px;
+padding-top: 30px;
+text-align: center;
+}
+
+#blog img{
+width: 150px;
+margin-left: 105px;
+}
+
+#blog h1{
+margin-left: 115px;
+margin-top: -60px;
+font-size: 20px;
+}
+
+#cardsblog .card{
+padding: 15px 5px;
+}
+
+#cardsblog{
+padding-top: 30px;
+}
+
+#cardsblog h2{
+font-size: 15px;
+margin-left: 70px;
+margin-bottom: -30px;
+}
+
+#cardsblog img{
+margin-left: -10px;
+}
+
+#cardsblog p{
+font-size: 10px;
+text-align: left;
+margin-left: 5px;
+margin-top: 30px;
+}
+
+#cardsblog img{
+width: 75px;
+}
+
+#cardsblog .button{
+background-color: #EB3C7C;
+margin-left: 70px;
+margin-right: 70px;
+}
+
+#botonmas .button{
+background-color: #F5FF06;
+margin-left: 120px;
+margin-right: 120px;
+color: #000;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
