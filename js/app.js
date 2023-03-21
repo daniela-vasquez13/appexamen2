@@ -17,7 +17,7 @@ var app = new Framework7({
 	},
   	routes: [
 		{
-		path: '/home/',
+		path: '/index/',
     	url: 'index.html',
     	name: 'home',
   		},
